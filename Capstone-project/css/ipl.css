@@ -69,7 +69,7 @@ summary{
 html{
 		border-style: inset;
 	    border-color: #000000;
-	    border-width: 100px;
+	    border-width: 50px;
 }
 .right img{
 		border: solid 2px #000000; /* Black */
